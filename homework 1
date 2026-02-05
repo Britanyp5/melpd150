@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Homework 1</title>
+</head>
+<body>
+   <h2>Homework 1</h2> 
+   <p>Reading this made me realize that websites are not nearly as complicated as I always thought. For some reason, I had built the internet up in my head as this mysterious thing, when in reality a simple way to put it is files neatly organized into folders. Finding out that HTML files are plain text was especially surprising. The fact that you can start learning with something as simple as Notepad or TextEdit makes the whole process feel way less intimidating.
+I also learned that the smallest details matter a lot more than I expected. Saving a file as .html instead of .txt or making sure the editor is set to plain text seems minor, but it’s easy to see how one wrong click could break everything. Even though everything is explained in a way that sounds simple, I’m still a little overwhelmed by all the new terms and rules. Still, I understand why learning to code by hand first is important, and it makes me feel more motivated to keep practicing instead of relying on shortcuts.
+This reading really helped me understand that HTML isn’t about how things look, but about what they mean. Tags give structure and purpose to content, not decoration. Learning about the < head > and < title > made the page feel more organized, like the difference between behind-the-scenes planning and what actually shows up on stage.
+I’m still figuring out headings, lists, and closing tags, but I’m starting to notice patterns. It’s all very structured and logical, and even though I don’t fully have it down yet, I’m beginning to see how everything fits together to build a real web page. I feel like I'm getting older because if I was younger I would have most likely understood this much faster but now I feel like I need to re-read/watch everything 5 times in order to understand it.
+</p>
+<footer>
+    </p>
+  Contact: @britany.palaguachi07@myhunter.cuny.edu
+        </p>
+    </footer>
